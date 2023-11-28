@@ -1,0 +1,36 @@
+.navigation{
+    background-color: #343739;
+    border-bottom: 2px solid #e3dcdc;
+    box-shadow: 2px 4px 15px #545b62;
+    margin-bottom: 35px;
+}
+.navigationItems .nav .nav-item a{
+    font-size: medium;
+    color: white;
+}
+.about-me{
+    display: flex;
+    justify-content: center;
+}
+
+.Proyectos .col{
+    background-color: #343739 ;
+    border-bottom: 2px solid black;
+    margin: 30px;
+}
+
+.titulo{
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+    margin-top: 65px;
+}
+.titulo .subtitulo h3{
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.card-img, .card-img-top {
+    width: 276px;
+    height: 150px;
+    object-fit: cover;
+}
